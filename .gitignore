@@ -1,0 +1,14 @@
+
+*.o
+*.out
+*.exe
+*.bin
+*.so
+*.a
+*.elf
+
+bin/*
+System_Monitor/bin/*
+
+**/[!.]*  !**/*.*
+
